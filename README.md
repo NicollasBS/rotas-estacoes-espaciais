@@ -1,4 +1,4 @@
-# 🛸 Sistema de Rotas - Algoritmo de Dijkstra
+# 🛸 Sistema de Rotas Espaciais - Teoria de Grafos
 
 Este projeto implementa um sistema de rotas utilizando **Grafos** e o **Algoritmo de Dijkstra** para encontrar o menor caminho e caminhos alternativos entre estações espaciais. 
 
